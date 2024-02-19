@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "531107985123",
+    "project_id": "misexams-33e44",
+    "storage_bucket": "misexams-33e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531107985123:android:9b9d562cfb0d717d98b7d6",
+        "android_client_info": {
+          "package_name": "com.example.lab3_201177"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZj7dbunReBUcPVNJ2wimgEg20T5fqVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531107985123:android:7847dc9da72a5de798b7d6",
+        "android_client_info": {
+          "package_name": "com.example.lab4_201177"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZj7dbunReBUcPVNJ2wimgEg20T5fqVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531107985123:android:3211aadd02cfa5dc98b7d6",
+        "android_client_info": {
+          "package_name": "com.example.lab5_201177"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcZj7dbunReBUcPVNJ2wimgEg20T5fqVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
